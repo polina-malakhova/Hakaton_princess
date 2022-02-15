@@ -3,6 +3,6 @@
 
 В **папке "Texts"** можно найти файлы, в которых собраны реплики принцесс по фильмам.
 
-*Freq_words_for_princess.ipynb* -- код для поиска частотных слов каждой принцессы и построения Wordcloud.
+**Freq_words_for_princess.ipynb** -- код для поиска частотных слов каждой принцессы и построения Wordcloud.
 
-*Lenght_of_ princesses_phrases.ipynb* -- код по рассчету средней длины реплик принцесс
+**Lenght_of_ princesses_phrases.ipynb** -- код по рассчету средней длины реплик принцесс
