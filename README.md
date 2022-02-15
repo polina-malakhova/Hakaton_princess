@@ -8,3 +8,5 @@
 **Lenght_of_ princesses_phrases.ipynb** -- код по рассчету средней длины реплик принцесс
 
 **Different_statistics.ipynb** -- код с разной статистикой по периодам и фильмам
+
+**Model_and_site.rar** -- это хранилище нашей модели и сайта:)
